@@ -1,0 +1,17 @@
+/* Reset some default styles for the entire page */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+/* Style the root container where your React app is rendered */
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* You can add more global styles here if needed */
